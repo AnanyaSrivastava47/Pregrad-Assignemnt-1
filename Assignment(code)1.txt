@@ -1,0 +1,21 @@
+class Assignment
+{
+    public static void main(String args[])
+    {
+        String name="Ananya Srivastava";
+        String fathersName="Mr Sudhir Srivastava";
+        String mothersName="Mrs Reena Srivastava";
+        int Age=21;
+        String gender="Male";
+        String add1="Kalyanpur,";
+        String add2="Lucknow";
+        String number ="7379766338";
+        System.out.println("Name :"+name);
+         System.out.println("Fathers Name :"+fathersName);
+          System.out.println("Mothers Name :"+mothersName);
+           System.out.println("Age :"+Age);
+            System.out.println("Gender :"+gender);
+             System.out.println("Address :"+add1+add2);
+             System.out.println("number"+number);
+    }
+}
